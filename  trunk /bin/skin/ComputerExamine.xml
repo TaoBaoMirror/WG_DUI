@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Window>
+  <HorizontalLayout>
+    <HorizontalLayout height="45" bkcolor="#FFB75F05" inset="0,0,0,0">
+      <HorizontalLayout width="52" inset="10,10,0,0">
+        <Label width="55"  height="25" textcolor="#ffffffff" font="2" text="序号"/>
+      </HorizontalLayout>
+
+      <HorizontalLayout width="52" inset="10,10,0,0">
+        <Label width="70"  height="25" textcolor="#ffffffff" font="2" text="账号"/>
+      </HorizontalLayout>
+      <HorizontalLayout width="52" inset="10,10,0,0">
+        <Label width="70"  height="25" textcolor="#ffffffff" font="2" text="密码"/>
+      </HorizontalLayout>
+
+      <HorizontalLayout width="72" inset="10,10,0,0">
+        <Label width="40"  height="25" textcolor="#ffffffff" font="2" text="服务器"/>
+      </HorizontalLayout>
+
+      <HorizontalLayout width="52" inset="10,10,0,0">
+        <Label width="40"  height="25" textcolor="#ffffffff" font="2" text="小区"/>
+      </HorizontalLayout>
+
+      <HorizontalLayout width="52" inset="10,10,0,0">
+        <Label width="42"  height="25" textcolor="#ffffffff" font="2" text="角色"/>
+      </HorizontalLayout>
+
+      <HorizontalLayout width="52" inset="10,10,0,0">
+        <Label width="42"  height="25" textcolor="#ffffffff" font="2" text="状态"/>
+      </HorizontalLayout>
+
+      <HorizontalLayout width="100" inset="10,10,0,0">
+        <Label width="100"  height="25" textcolor="#ffffffff" font="2" text="角色信息"/>
+      </HorizontalLayout>
+
+      <HorizontalLayout width="70" inset="10,10,0,0">
+        <Label width="45"  height="25" textcolor="#ffffffff" font="2" text="备注"/>
+      </HorizontalLayout>
+    </HorizontalLayout>
+  </HorizontalLayout>
+</Window>
